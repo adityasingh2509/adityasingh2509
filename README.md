@@ -1,4 +1,4 @@
-### Hi there 👋
+![Cover](assets/cover.png)
 
 <!--
 **adityasingh2509/adityasingh2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
