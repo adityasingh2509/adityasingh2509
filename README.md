@@ -1,6 +1,6 @@
 ![Cover](assets/cover.png)
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World! <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adityasingh2509.adityasingh2509"/>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <h1 style="border-bottom: none">Hello World!</h1><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adityasingh2509.adityasingh2509"/>
 
 # I'm Aditya.
 
