@@ -1,8 +1,7 @@
 ![Cover](assets/cover.png)
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <h1 style="border-bottom: none">Hello World!</h1><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adityasingh2509.adityasingh2509"/>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World! I'm ![Aditya](https://adityasingh2509.github.io/).<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adityasingh2509.adityasingh2509"/>
 
-# I'm Aditya.
 
 <!--
 **adityasingh2509/adityasingh2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
