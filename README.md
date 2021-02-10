@@ -1,6 +1,6 @@
 ![Cover](assets/cover.png)
 
- # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World! I'm <a href="https://adityasingh2509.github.io/" style="text-decoration: none;" target="_blank">Aditya</a>.
+ <h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World! I'm <a href="https://adityasingh2509.github.io/" style="text-decoration: none;" target="_blank">Aditya</a>.</h1>
  
  <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adityasingh2509.adityasingh2509"/> -->
 
