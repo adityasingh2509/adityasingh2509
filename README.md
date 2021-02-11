@@ -9,11 +9,12 @@
 
 🎓 &nbsp;I'm currently completeing my B.Tech. in Computer Science & Engineering.
 
-💡 &nbsp;I love to explore new technologies and quick hacks!
+💡 &nbsp;I love exploring new technologies and quick hacks!
 
 🌱 &nbsp;I'm on track for learning more about Web Design, Systems Design and Cloud Architecture.
 
-⏱️ &nbsp;In my free time, I love to read about new and exciting developments that are taking the world by storm! I love reading fiction books too!
+⏱️ &nbsp;In my free time, I love to read about new and exciting developments that are taking the world by storm!
+I love reading fiction books too!
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
