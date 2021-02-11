@@ -5,7 +5,7 @@
 
 <br>
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently completeing my B.Tech. in Computer Science & Engineering.
 
@@ -18,14 +18,14 @@
 
 📄 &nbsp; Here's my [Résumé](https://adityasingh2509.github.io/). Please feel free to contact me at any time! I'm open to feedback, suggestions and collaborations.
 
-<br>&theme=dark&show_icons=true
+<br>
 
 ---
 
 ## 🗄️ Awesome Projects!
 
 <a href="https://github.com/adityasingh2509/mr-funnyBot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasingh2509&repo=mr-funnyBot&theme=rdical&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasingh2509&repo=mr-funnyBot&theme=radical&show_icons=true" />
 </a>
 
 
