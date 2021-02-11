@@ -31,6 +31,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasingh2509&repo=mini-projects&theme=radical&show_icons=true" />
 </a>
 
+<br><br>
 
 ## H
 
