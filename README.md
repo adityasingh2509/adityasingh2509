@@ -18,9 +18,15 @@
 
 📄 &nbsp; Here's my [Résumé](https://adityasingh2509.github.io/). Please feel free to contact me at any time! I'm open to feedback, suggestions and collaborations.
 
+<br>
+
+---
+
+🗄️ Awesome Projects!
+
 <img alt="Night Coding" src="/assets/gif-asset.gif" align="right" height="250px"/>
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasingh2509)](https://github.com/adityasingh2509/github-readme-stats)
+<!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasingh2509)](https://github.com/adityasingh2509/github-readme-stats) -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
