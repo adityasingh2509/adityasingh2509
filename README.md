@@ -18,15 +18,20 @@
 
 📄 &nbsp; Here's my [Résumé](https://adityasingh2509.github.io/). Please feel free to contact me at any time! I'm open to feedback, suggestions and collaborations.
 
-<br>
+<br>&theme=dark&show_icons=true
 
 ---
 
-🗄️ Awesome Projects!
+## 🗄️ Awesome Projects!
+
+<a href="https://github.com/adityasingh2509/mr-funnyBot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasingh2509&repo=mr-funnyBot&theme=rdical&show_icons=true" />
+</a>
+
 
 <img alt="Night Coding" src="/assets/gif-asset.gif" align="right" height="250px"/>
 
-<!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasingh2509)](https://github.com/adityasingh2509/github-readme-stats) -->
+<!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasingh2509&count_private=true)](https://github.com/adityasingh2509/github-readme-stats) -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
