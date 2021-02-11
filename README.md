@@ -14,7 +14,9 @@
 🌱 &nbsp;I'm on track for learning more about Web Design, Systems Design and Cloud Architecture.
 
 ⏱️ &nbsp;In my free time, I love to read about new and exciting developments that are taking the world by storm!
-I love reading fiction books too!
+<br> PS - I love reading fiction books too!
+
+📄 &nbsp; 
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
