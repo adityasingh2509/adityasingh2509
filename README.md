@@ -9,14 +9,14 @@
 
 🎓 &nbsp;I'm currently completeing my B.Tech. in Computer Science & Engineering.
 
-💡 &nbsp;I love exploring new technologies and quick hacks!
+💡 &nbsp; I love exploring new technologies and quick hacks!
 
 🌱 &nbsp;I'm on track for learning more about Web Design, Systems Design and Cloud Architecture.
 
-⏱️ &nbsp;In my free time, I love to read about new and exciting developments that are taking the world by storm!
-<br> PS - I love reading fiction books too!
+⏱️ &nbsp; In my free time, I love to read about new and exciting developments that are taking the world by storm!
+<br>&nbsp;nbsp;PS - I love reading fiction books too!
 
-📄 &nbsp; 
+📄 &nbsp; Here's my [Résumé](https://adityasingh2509.github.io/). Please feel free to contact me at any time! I'm open to feedback, suggestions and collaborations.
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
