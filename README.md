@@ -27,15 +27,13 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasingh2509&repo=mr-funnyBot&theme=radical&show_icons=true" />
 </a>
 
-<a href="https://github.com/adityasingh2509/mini-projects">
+<!-- <a href="https://github.com/adityasingh2509/mini-projects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasingh2509&repo=mini-projects&theme=radical&show_icons=true" />
-</a>
+</a> -->
 
 <br><br>
 
-## H
-
-
+##
 
 <br>
 <img alt="Night Coding" src="/assets/gif-asset.gif" align="right" height="250px"/>
