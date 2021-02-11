@@ -1,18 +1,17 @@
 ![Cover](assets/cover.png)
 
- # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World! I'm [Aditya](https://adityasingh2509.github.io/).
- 
- <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adityasingh2509.adityasingh2509"/> -->
+ # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World! I'm [Aditya](https://adityasingh2509.github.io/). <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adityasingh2509.adityasingh2509"/>
+
+
 <br>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<!--
-**adityasingh2509/adityasingh2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  I'm currently completeing my B.Tech. in Computer Science & Engineering.
 
-Here are some ideas to get you started:
+💡 I love to explore new technologies and quick hacks!
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
