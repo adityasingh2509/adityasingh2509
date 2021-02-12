@@ -39,8 +39,8 @@
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="40" width="70" src="./assets/c.svg"></code>
-<code><img height="40" width="70" src="./assets/cpp.svg"></code>
+<code><img height="40" width="85" src="./assets/c.svg"></code>
+<code><img height="40" width="85" src="./assets/cpp.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -50,8 +50,8 @@
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 
 
 <!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasingh2509&count_private=true)](https://github.com/adityasingh2509/github-readme-stats) -->
