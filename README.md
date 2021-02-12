@@ -71,8 +71,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/adityasingh2509">
-  <img height="180em" width="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityasingh2509&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityasingh2509&layout=compact&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityasingh2509&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityasingh2509&layout=compact&theme=nightowl"/>
 </a>
 
 <br><br>
