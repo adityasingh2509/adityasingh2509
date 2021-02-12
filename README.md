@@ -70,9 +70,13 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasingh2509&count_private=true)](https://github.com/adityasingh2509/github-readme-stats)
+<p align="center">
+<a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasingh2509&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityasingh2509&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+</p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adityasingh2509)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
