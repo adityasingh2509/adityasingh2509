@@ -40,6 +40,7 @@
 <code><img height="40" width="70" src="./assets/c.svg"></code>
 <code><img height="40" width="70" src="./assets/cpp.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 <img alt="Night Coding" src="/assets/gif-asset.gif" align="right" height="250px"/>
