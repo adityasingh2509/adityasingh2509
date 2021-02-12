@@ -70,14 +70,10 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<!-- <a href="https://github.com/adityasingh2509">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityasingh2509&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityasingh2509&layout=compact&theme=nightowl"/>
-</a> -->
 <p align="center">
 <a href="https://github.com/adityasingh2509">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityasingh2509&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityasingh2509&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityasingh2509&langs_count=8&theme=nightowl"/>
 </a>
 </p>
 
@@ -85,12 +81,8 @@
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://adityasingh2509.github.io/"><img src="https://img.shields.io/badge/-Portfolio%20Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aditya2509/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:adityasingh2509@gmail.com"><img src="https://img.shields.io/badge/-E-Mail%20Me!-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
