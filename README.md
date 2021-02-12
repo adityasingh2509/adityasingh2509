@@ -46,8 +46,12 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 
-
+<code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 
 
 <!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasingh2509&count_private=true)](https://github.com/adityasingh2509/github-readme-stats) -->
