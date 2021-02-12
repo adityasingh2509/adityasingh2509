@@ -82,7 +82,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://adityasingh2509.github.io/"><img src="https://img.shields.io/badge/-Portfolio%20Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white" height="40" width="150"/></a>
+<a href="https://adityasingh2509.github.io/"><img src="https://img.shields.io/badge/-Portfolio%20Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white" height="40" width="150" style="margin-right: 50px;"/></a>
 <a href="https://www.linkedin.com/in/aditya2509/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" height="40" width="150"/></a>
-<a href="mailto:adityasingh2509@gmail.com"><img src="https://img.shields.io/badge/-EMail%20Me!-D14836?style=flat&logo=Gmail&logoColor=white" height="40" width="150"/></a>
+<a href="mailto:adityasingh2509@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me!-D14836?style=flat&logo=Gmail&logoColor=white" height="40" width="150"/></a>
 </p>
