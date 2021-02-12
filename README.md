@@ -65,7 +65,12 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 
-<!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasingh2509&count_private=true)](https://github.com/adityasingh2509/github-readme-stats) -->
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasingh2509&count_private=true)](https://github.com/adityasingh2509/github-readme-stats)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
