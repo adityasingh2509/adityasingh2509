@@ -36,10 +36,8 @@
 ## 🛠  Tech Stack
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-
-<code><img height="40" src="./assets/c.svg"></code>
+<code><img height="40" width="20" src="./assets/c.svg"></code>
 
 <img alt="Night Coding" src="/assets/gif-asset.gif" align="right" height="250px"/>
 
