@@ -37,8 +37,8 @@
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="40" width="100" src="./assets/c.svg"></code>
-
+<code><img height="40" width="70" src="./assets/c.svg"></code>
+<code><img height="40" width="70" src="./assets/cpp.svg"></code>
 <img alt="Night Coding" src="/assets/gif-asset.gif" align="right" height="250px"/>
 
 <!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasingh2509&count_private=true)](https://github.com/adityasingh2509/github-readme-stats) -->
