@@ -58,7 +58,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="40" src="./assets/markdown.svg"></code>
+<code><img height="40" width="80" src="./assets/markdown.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
